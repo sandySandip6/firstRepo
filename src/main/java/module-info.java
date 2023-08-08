@@ -6,4 +6,6 @@ module com.example.java_fx_first {
 
     opens com.example.java_fx_first to javafx.fxml;
     exports com.example.java_fx_first;
+    exports com.example.java_fx_first.layout_mangeer;
+    opens  com.example.java_fx_first.layout_mangeer to javafx.fxml;
 }

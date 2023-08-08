@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e664a3b-63ea-44cc-a97e-7439ccf36203" name="Changes" comment="" />
+    <list default="true" id="5e664a3b-63ea-44cc-a97e-7439ccf36203" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/java_fx_first/layout_mangeer/borderPane_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/java_fx_first/AnnonymousInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/java_fx_first/AnnonymousInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/java_fx_first/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/java_fx_first/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +39,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.java_fx_first" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.borderPane_demo">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.java_fx_first.HelloApplication" />
       <module name="Java_FX_First" />
@@ -47,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="borderPane_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java_fx_first.layout_mangeer.borderPane_demo" />
+      <module name="Java_FX_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java_fx_first.layout_mangeer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.borderPane_demo" />
         <item itemvalue="Application.HelloApplication" />
       </list>
     </recent_temporary>

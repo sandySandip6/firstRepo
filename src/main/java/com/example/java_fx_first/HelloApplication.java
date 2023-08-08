@@ -24,10 +24,7 @@ public class HelloApplication extends Application {
 
         button.setOnAction(new EventHandler<ActionEvent>() {
             @Override
-            public void handle(ActionEvent actionEvent) {
-
-            }
-        });
+            public void handle(ActionEvent actionEvent) { }});
 
         Scene scene = new Scene(borderpane, 320, 240);
         stage.setTitle("Hello!");
