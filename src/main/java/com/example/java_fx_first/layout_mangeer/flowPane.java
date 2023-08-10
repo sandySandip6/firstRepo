@@ -15,7 +15,7 @@ public class flowPane extends Application {
     public void start(Stage stage) throws Exception {
         FlowPane flowPane = new FlowPane();
         for (int i = 1; i < 20 ; i++){
-            Button button = new Button("hello");
+            Button button = new Button("hello"+i);
             flowPane.getChildren().add(button);
         }
         flowPane.setOrientation(Orientation.HORIZONTAL);
